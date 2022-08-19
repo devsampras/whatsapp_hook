@@ -11,7 +11,7 @@ Remeber to change your token in the code in Controllers/WebhookController.cs at 
 if (mode == "subscribe" && token == "YOUR_VERIFICATION_TOKEN")
 ```
 
-then rebuild the project
+then rebuild the project:
 ```powershell
 dotnet build
 ```
